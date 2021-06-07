@@ -11,7 +11,7 @@ I have created a story with the use of Tableau to write a report that describes 
 
 We completed 2,344,224 rides in the month of August wchich is very impressive. About 1.9 million rides were completed by subscribers which is 80% off the total rides in the month. 
 
-![Checkout Times by Gender](Resources/chekcoutbygender.png "This is a sample image.") ![Checkout Times](Resources/checkouttime.png "This is a sample image.") 
+![Checkout Times by Gender](Resources/checkoutbygender.png "This is a sample image.") ![Checkout Times](Resources/checkouttime.png "This is a sample image.") 
 
 This line graph allows us to visualize how consumers are using CitiBike's service. From the graph above we see that consumers are not usually biking for more than 2 hours at a time. We have more male users than other genders.
 
